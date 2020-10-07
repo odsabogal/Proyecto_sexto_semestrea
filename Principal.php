@@ -9,7 +9,7 @@ if(!isset($Contenido)){
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="CSS/Estilo.css">
-	<title>Prueba bien vergas</title>
+	<title>Prueba bien vergas  a ver </title>
 </head>
 <body>
 	<div class="header">
