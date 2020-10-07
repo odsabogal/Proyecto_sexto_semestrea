@@ -9,7 +9,7 @@ if(!isset($Contenido)){
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="CSS/Estilo.css">
-	<title>(Nombre de la pagina)</title>
+	<title>Pets Home</title>
 </head>
 <body>
 	<div class="header">
